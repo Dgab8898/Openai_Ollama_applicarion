@@ -32,6 +32,9 @@ feel free to fork the repository, create a branch, and submit a pull request.
 
 ## License
 
+Copyright (C) 2025 David Gabriel
+
+
 
 ## Acknowledgements
 	•	OpenAI for providing advanced NLP models.
