@@ -34,6 +34,10 @@ feel free to fork the repository, create a branch, and submit a pull request.
 ..
 Copyright (C) 2025 David Gabriel
 
+## Licence
+	•	Copyright (C) 2025 David Gabriel
+	•	Install OpenAI and Ollama libraries
+
 
 
 
