@@ -30,18 +30,9 @@ We welcome contributions from developers, healthcare professionals, and research
 feel free to fork the repository, create a branch, and submit a pull request.
 
 
-## License
-..
-Copyright (C) 2025 David Gabriel
-
 ## Licence
 	•	Copyright (C) 2025 David Gabriel
-	•	Install OpenAI and Ollama libraries
-
-
-
-
-
+	
 
 ## Acknowledgements
 	•	OpenAI for providing advanced NLP models.
