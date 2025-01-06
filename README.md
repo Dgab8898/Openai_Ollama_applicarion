@@ -19,7 +19,9 @@ This project explores the impact and potential of Artificial Intelligence (AI) i
    pip install ollama
 
 ## Configuration
-	1.	OpenAI API Setup: You need an API key from OpenAI. Create an account and get your API key at OpenAI API. Set up your environment variables:\ export OPENAI_API_KEY="your-openai-api-key"
+	1.	OpenAI API Setup: You need an API key from OpenAI. Create an account and get your API key at OpenAI API. Set up your environment variables:
+        .	 export OPENAI_API_KEY="your-openai-api-key"
+
   2.	Ollama Setup: Download and install Ollama from the official website or GitHub repository: Ollama Installation Guide Ensure Ollama’s model registry is set up for the required healthcare models.
   import openai
   import ollama
