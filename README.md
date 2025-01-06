@@ -32,7 +32,7 @@ feel free to fork the repository, create a branch, and submit a pull request.
 
 ## License
 
-Copyright (C) 2025 David Gabriel
+•	Copyright (C) 2025 David Gabriel.
 
 
 
@@ -40,8 +40,9 @@ Copyright (C) 2025 David Gabriel
 	•	OpenAI for providing advanced NLP models.
 	•	Ollama for enabling seamless integration of large language models into healthcare applications.
 	•	Healthcare professionals and AI researchers for their insights into the evolving role of AI in medicine.
- https://edwarddonner.com/2024/11/13/llm-engineering-resources/
- https://learn.deeplearning.ai/?q=&topic=topic%3APrompt+Engineering
+ 	•	https://edwarddonner.com/2024/11/13/llm-engineering-resources/.
+	•	https://learn.deeplearning.ai/?q=&topic=topic%3APrompt+Engineering.
+	
   
  
 
